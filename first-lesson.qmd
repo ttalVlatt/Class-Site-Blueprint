@@ -6,6 +6,18 @@ editor:
     wrap: 72
 ---
 
+```{r, include = FALSE, purl = TRUE}
+## -----------------------------------------------------------------------------
+##
+##' [PROJ: EDH 7916]
+##' [FILE: 11-pro-functions.R]
+##' [INIT: 5 March 2024]
+##' [AUTH: Benjamin Skinner @btskinner]
+##' [EDIT: Matt Capaldi @ttalVlatt]
+##
+## -----------------------------------------------------------------------------
+```
+
 ::: panel-tabset
 # Lesson
 
@@ -133,22 +145,6 @@ For today, we are mostly going to explore some basic features of R using the con
     - After today, anything we want to save will be done through a script, anything we just need to run one time will be done in console
 
 ## Basic R Commands
-
-```{r, include = FALSE, purl = TRUE}
-################################################################################
-##
-## [ PROJ ] EDH7916: Introduction
-## [ FILE ] intro_r.R 
-## [ INIT ] 6 January 2020
-## [ REVN ] 4 January 2022
-## [ AUTH ] Benjamin Skinner (GitHub/Twitter: @btskinner)
-##
-################################################################################
-
-## ---------------------------------------------------------
-## Welcome!
-## ---------------------------------------------------------
-```
 
 First, let's try the traditional first command!
 
